@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<properties>
 		<org.springframework-version>4.1.5.RELEASE</org.springframework-version>
-		<jackson.library>2.7.5</jackson.library>
+		<jackson.library>2.9.10.1</jackson.library>
 		<hibernate.version>4.2.21.Final</hibernate.version>
 	</properties>
 	<dependencies>
